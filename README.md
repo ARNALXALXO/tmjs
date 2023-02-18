@@ -1,3 +1,5 @@
 # tmjs
-// three js me jitna bhi  module hai sabka setup kese krna hai 
-//zip file download kar ke demo dekh sakate hai 
+three js module ke sath jo jo module use hote  hai us sabka module zip file me hai 
+zip file ke andar three js mini project hai 
+apne level ka zip file download kare
+aur practice kare aur best 3D game engine create kare 
